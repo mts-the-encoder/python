@@ -1,2 +1,2 @@
-# FIAP
-cursos-ferias
+# python
+everything about python
